@@ -1,5 +1,8 @@
 _repo: Sidewinders-From-Sirius_64625
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64625-h/images/cover.jpg
 creator:
   author:
     agent_name: Holden, Fox B.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '35294'
     url: http://www.gutenberg.org/2009/agents/35294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64625#Sidewinders-From-Sirius
 gutenberg_issued: '2021-02-25'
 gutenberg_type: Text
 identifiers:
